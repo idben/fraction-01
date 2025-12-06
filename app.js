@@ -1,6 +1,6 @@
 // 設定常數
 const RECT_WIDTH = 800;
-const RECT_HEIGHT = 400;
+const RECT_HEIGHT = 300;
 const HORIZONTAL_POINTS = 7; // 上下邊各7個點（切成8等分）
 const VERTICAL_POINTS = 3;   // 左右邊各3個點（切成4等分）
 
